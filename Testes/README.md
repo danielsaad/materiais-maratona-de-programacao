@@ -26,7 +26,7 @@ Compile o programa com o `g++` e em seguida, execute o binário gerado:
 
 ```bash
 g++ -std=c++11 teste.cpp -o testCPP
-./textCPP
+./testCPP
 ```
 
 ## Teste do Interpretador Python2
